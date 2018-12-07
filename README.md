@@ -17,6 +17,6 @@
 ![등록](doc/1plus2_register.png)
 
 * 랭킹 확인
-
 : 20 위까지 유저와 점수, 등록한 시간을 확인할 수 있습니다.
+
 ![랭킹](doc/1plus2_ranking.png)
