@@ -21,4 +21,4 @@
 
 ![랭킹](doc/1plus2_ranking.png)
 
-데모 기능은 http://www.7-star.net/1plus2 에서 확인할 수 있습니다.
+데모 기능은 http://www.7-star.net/1plus2 에서 확인할 수 있습니다. 그리고, 자바스크립트 소스를 확인해보시면 알겠지만 ES6 문법이 포함되어 있어서 구 IE 에서는 동작안합니다. ES6 를 지원하는 크롬이나 MS Edge 브라우져를 사용해야 합니다.
